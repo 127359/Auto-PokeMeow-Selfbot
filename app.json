@@ -1,11 +1,11 @@
 {
     "name": "auto pokemeow selbot",
     "description": "Hello, pokemeow Selfbot on heroku",
-    "repository": "https://github.com/moezilla/Auto-PokeMeow-Selfbot",
+    "repository": "https://github.com/127359/Auto-PokeMeow-Selfbot",
     "env": {
       "PREFIX": {
         "description": "prefix",
-        "value": "!"
+        "value": ";"
       },
       "TOKEN": {
         "description": "TOKEN HERE",
